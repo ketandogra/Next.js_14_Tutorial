@@ -34,10 +34,7 @@
     flex-direction: column;
     gap: 10px;
   }
-  .avatar{
-    object-fit: fit;
-    border-radius: 50%;
-  }
+
   
   .detailTitle{
     color: gray;
