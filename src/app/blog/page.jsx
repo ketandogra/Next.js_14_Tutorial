@@ -16,6 +16,12 @@ import { getPosts } from "@/lib/data";
 
 // }
 
+export const metadata = {
+  title:"Blog Page",
+  description: "Next.js starter app description",
+};
+
+
 const BlogPage = async() => {
     //FETCH DATA WITH AN API
   // const posts = await getData()
